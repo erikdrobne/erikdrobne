@@ -12,7 +12,8 @@
 </p>
 
 🖲 I'm an experienced software engineer focused on high-performance and highly scalable native iOS apps.
-I have 10+ years of experience with mobile and web development and a strong understanding of computer science principles.
+I have 10+ years of experience with mobile and web development and a strong understanding of computer science principles. 
+My strength is deep comprehension of Swift & iOS ecosystem and also great knowledge of JavaScript.
 
 
 🎾 In my free time, I play tennis, travel, and experience art.<br/>
