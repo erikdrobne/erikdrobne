@@ -23,10 +23,7 @@ My strength is deep comprehension of Swift & iOS ecosystem and also great knowle
 
 <p align='center'>
   <div align="center">
-  <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erikdrobne&hide_border=true" width="400">
-
-  <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=erikdrobne&theme=xcode&hide_border=true" width="800">
+    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=erikdrobne&hide_border=true" width="400">
   </div>
 </p>
