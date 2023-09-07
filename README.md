@@ -13,7 +13,7 @@
 
 🖲 I'm an experienced software engineer focused on high-performance and highly scalable native iOS apps.
 I have 10+ years of experience with mobile and web development and a strong understanding of computer science principles. 
-My strength is deep comprehension of Swift & iOS ecosystem and also great knowledge of JavaScript.
+My strengths are deep comprehension of Swift & iOS ecosystem and excellent JavaScript knowledge.
 
 
 🎾 In my free time, I play tennis, travel, and experience art.<br/>
@@ -21,9 +21,5 @@ My strength is deep comprehension of Swift & iOS ecosystem and also great knowle
 
 <br/>
 
-<p align='center'>
-  <div align="center">
-    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=erikdrobne&hide_border=true" width="400">
-  </div>
-</p>
+**My work:**
+- [EZPZ](https://apps.apple.com/us/app/ezpz-doodle-loop-techno/id6444683778) - Draw with sounds and beats.
